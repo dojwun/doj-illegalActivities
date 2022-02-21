@@ -8,7 +8,7 @@ Do what you want with this script, just dont modify and sell (Main reason i dont
 # Dependencies
 **[Memorygame](https://github.com/pushkart2/memorygame)**
 
-## Optinal 
+## Optional
 **[Cargo payphone ring](http://sndup.net/xpct)**
 
 
