@@ -8,6 +8,9 @@ Do what you want with this script, just dont modify and sell (Main reason i dont
 # Dependencies
 **[Memorygame](https://github.com/pushkart2/memorygame)**
 
+## Optinal 
+**[Cargo payphone ring](http://sndup.net/xpct)**
+
 
 # qb-core/shared.lua info
 ```
